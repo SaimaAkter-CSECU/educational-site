@@ -1,0 +1,13 @@
+.card{
+    padding: 0;
+    margin: 15px; 
+    box-shadow: 5px 10px 10px rgb(0,0,0, 0.3);
+}
+.card button{
+    padding: 8px 25px; 
+    /* margin-left: 50%;  */
+    margin: 12px 61px 5px 61px;
+}
+.card button:hover{
+    color: white; 
+}
